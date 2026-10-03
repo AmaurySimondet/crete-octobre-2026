@@ -26,41 +26,52 @@ Horaires Volotea : revérifier sur Volotea **48 h avant** (check-in en ligne).
 
 ---
 
-## Météo — début octobre (climatologie + 2023–2025)
+## Météo & vêtements — update 3/10/2026
 
-Ce n’est **pas** une prévision J+N : tableau basé sur les moyennes d’octobre et l’historique récent pour le nord / nord-ouest de la Crète.
+**Verdict :** semaine globalement **douce, sèche et baignable**. Air ~**18–27 °C**, mer ~**23–24 °C**, UV **5–6**. Peu de pluie. **Fenêtre Balos / plages idéale : jeu. 8 → sam. 10** ; lundi–mardi plus venteux côté Héraklion.
 
-### Attendu pour le 5–12/10
+Fiabilité : lun–mer assez solide ; à partir de jeu. 9, recontrôler 24–48 h avant bateau / gorge.
 
-| Paramètre | Fourchette typique |
-|---|---|
-| Air jour | **23–25 °C** |
-| Air nuit | **15–18 °C** |
-| Mer | **23–24 °C** (baignade encore confortable) |
-| Ensoleillement | Beaucoup de jours clairs (~20–23 j/mois en moyenne à Héraklion) ; ~11 h de jour |
-| Pluie | Saison de transition : quelques averses possibles ; plus fréquentes à l’ouest (Chania) |
-| Vent | Brise / méltemi résiduel possible → peut annuler ou durcir les bateaux **Balos / Gramvoussa** |
+### Prévision Chania (base)
 
-Début octobre reste la **meilleure fenêtre du mois** pour combiner plages + randonnées ([Jetpac / Crete October](https://www.jetpacglobal.com/blog/warm-places-to-visit-in-october/), [Crete Tales swimming](https://cretetales.com/best-time-chania-for-swimming/)).
+| Jour | Air min–max | Ciel / pluie | Vent / mer | Note |
+|---|---|---|---|---|
+| **Lun 5** | 18–21 °C | Couvert, sec | Vent modéré ; mer ~23,5 °C, vagues ~1,5 m | Arrivée HER ~20:30 ; soir frais |
+| **Mar 6** | 17–22 °C | Peu nuageux, sec | Vent ↓ | Knossos / route ouest OK |
+| **Mer 7** | 18–23 °C | Couvert, sec | Mer plus calme | Conditions qui s’améliorent |
+| **Jeu 8** | 19–25 °C | Peu nuageux, sec | Vent faible, vagues ~0,4 m | **Excellent Balos / Elafonissi** |
+| **Ven 9** | 20–**27** °C | Léger couvert, sec | Vent très faible | **Jour plage #1** |
+| **Sam 10** | 18–**27** °C | Couvert, sec | Mer calme | **Jour plage #2** / gorge OK |
+| **Dim 11** | 17–21 °C | Bruine possible (~14 %) | — | Plus frais ; ville / musées |
+| **Lun 12** | 20–25 °C | Bruine faible possible | — | Vol HER 21:00 |
 
-### Historique récent
+**Héraklion (nuit du 5 + départ 12) :** lun 5 / mar 6 — vent NW plus fort (rafales ~45–48 km/h) → couche chaude le soir d’arrivée. Reste de la semaine souvent 1–2 °C plus chaud en journée.
 
-- **Mer Héraklion** début octobre : ~23,5–25 °C en 2024–2025 — [seatemperature.info](https://seatemperature.info/october/heraklion-water-temperature.html)
-- **Air Héraklion oct. 2025** : max journalière jusqu’~28 °C, nuits ~14 °C — [weather-stats.com](https://weather-stats.com/greece/heraklion/october)
-- **Chania octobre** ([WeatherAPI history](https://www.weatherapi.com/history/october/q/chania-2852933)) :
-  - **2023** : moy. ~21 °C (max ~24 °C)
-  - **2024** : moy. ~17 °C (max ~21 °C)
-  - **2025** : moy. ~19 °C (max ~23 °C)
-- **Mer Chania** octobre : moyenne ~22,6–23,7 °C — [seatemperature.info Chania](https://seatemperature.info/october/chania-water-temperature.html)
+### Valise (2 adultes, 7 nuits)
 
-### Pack & planning
+- 4–5 T-shirts / chemises légères + 2 manches longues
+- 1–2 pantalons légers + short ; 1 tenue soirée
+- **1 polaire / softshell** (soirs 17–19 °C + vent HER le 5)
+- 1 coupe-vent / mini-imperméable
+- 2 maillots, serviette microfibre, tongs, chapeau, lunettes, **SPF 30–50**
+- Baskets ville + sandales + **chaussures rando** si gorge (Imbros / Samaria)
+- Sac étanche bateau Balos ; pas besoin de grosse veste d’hiver
 
-- Tenue été + **couche légère** pour le soir
-- Maillot + crème solaire (UV encore élevé)
-- **K-way compact**
-- Chaussures fermées pour Samaria
-- Prévoir un **jour de bascule** Balos ↔ ville si vent fort
-- Vérifier 48–72 h avant : [meteo.gr](https://www.meteo.gr/) + statut gorge Samaria
+### Conseils activités
+
+- **Knossos (mar 6) :** sec, 22 °C — matin = moins de monde ; chapeau + eau
+- **Balos / Elafonissi :** priorité **jeu. 8, ven. 9, sam. 10** ; réserver bateau annulable ; éviter de bloquer lun. 5 (mer agitée)
+- **Gorge :** Samaria **fermée au 3/10** — plan B Imbros ; vérifier NECCA chaque matin
+- **Soirs ville :** veste légère suffit
+
+**Liens utiles (météo)**
+- [meteo.gr — Chania](https://www.meteo.gr/cf.cfm?city_id=21)
+- [EMY (service météo grec)](https://emy.gr/en)
+- [Meteoblue Chania (vent)](https://www.meteoblue.com/en/weather/week/chania_greece_260133)
+- [SeaTemperature.org — Chania](https://www.seatemperature.org/europe/greece/chania.htm)
+- [Open-Meteo forecast Chania 5–12/10](https://api.open-meteo.com/v1/forecast?latitude=35.5138&longitude=24.018&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,windspeed_10m_max,windgusts_10m_max,uv_index_max,weathercode&timezone=Europe%2FAthens&start_date=2026-10-05&end_date=2026-10-12)
+- [Open-Meteo marine Balos](https://marine-api.open-meteo.com/v1/marine?latitude=35.58&longitude=23.58&daily=sea_surface_temperature_max,sea_surface_temperature_min,wave_height_max&timezone=Europe%2FAthens&start_date=2026-10-05&end_date=2026-10-12)
+- [NECCA — billets / statut Samaria](https://samaria-tickets.necca.gov.gr/checkout)
 
 ---
 
@@ -69,23 +80,40 @@ Début octobre reste la **meilleure fenêtre du mois** pour combiner plages + ra
 **Adresse** : Thiseos 3, 71201 Héraklion (près « Psaradika », 1 min à pied de **Plateia Kornarou**).  
 Contact : +30 697 432 0857 · yianniscrops@gmail.com · [Guide hôtel](https://cropssuites.com/where-to-go-guide/)
 
-### Transfert aéroport → Crops (infos hôtel)
+### Transfert aéroport → Crops — update 3/10/2026
 
-Arrivée **~20:30**.
+Arrivée **~20:30**. Bagages + sortie ≈ **20:50–21:20**.
 
-1. **Bus urbain Astiko** (recommandé si énergie OK)
-   - Depuis les Arrivals, marcher vers la **Airport Bus Station** (bus ~toutes les 7 min)
-   - Lignes possibles vers le centre : **05, 06, 08, 10, 11, 12, 15, 17, 18, 19, 23, 31**
-   - Descendre à **Kornarou Square** (~**30 min**) → 1 min à pied jusqu’à Thiseos 3
-   - Prix indiqué par l’hôtel : **1,20 €** / pers. (sinon tickets Astiko zone A/B : acheter au kiosk / machine, plus cher à bord)
-   - App : [astiko-irakleiou.gr](https://astiko-irakleiou.gr/)
+#### Bus Astiko (possible, peu pratique le soir)
 
-2. **Taxi** (plus pratique à 20h30 avec bagages)
-   - Station juste dehors des Arrivals
-   - Dire : **Thiseos 3, près de Psaradika** — ~**23 €** (tarif hôtel)
-   - Pré-réservation possible via WhatsApp hôtel : +30 697 432 0857
+Horaires officiels **depuis le 01/10/2026** — le soir la fréquence n’est **pas** « toutes les 10 min ».
 
-**Verdict** : **taxi** ce soir-là ; bus le lendemain pour Knossos / KTEL.
+| Ligne | Après 20:30 | Usage |
+|---|---|---|
+| **7 Giofyro ↔ Amnissos** | Départs **Amnissos** : **20:45, 21:45, 22:45** (dernier) — passage aéroport quelques minutes après ; ~**1×/heure** | **Principale utile** vers la ville (sens **Giofyro**, pas Amnissos) |
+| **11 / 12** | Services aéroport surtout université / boucles | Peu utiles pour Plateia Kornarou le soir |
+
+- Arrêt **hors terminal** (route principale, courte marche avec bagages)
+- Durée ~**20–30 min** ; descendre près de **Plateia Kornarou** → 1 min à Thiseos 3
+- Prix 2026 : zone B typique aéroport → **1,80 €** (kiosque/app) ou **2,80 €** à bord / pers. (le « 1,20 € » hôtel / guides est dépassé)
+- Viser le bus **~21:45** (sinon **~22:45**)
+
+#### Taxi (recommandé)
+
+- File à la sortie Arrivals, 24/7
+- Forfait aéroport → centre : **~19 €** (jour) / **22 €** après minuit — au véhicule
+- Dire : **Thiseos 3, près de Psaradika** (hôtel indique aussi ~23 €)
+- WhatsApp hôtel possible : +30 697 432 0857
+
+**Verdict :** bus OK si économie ; **taxi recommandé** à 20h30 avec bagages.
+
+**Liens utiles (transfert 5/10)**
+- [Astiko — itineraries](https://astiko-irakleiou.gr/en/itineraries/)
+- [Astiko — tickets / tarifs](https://astiko-irakleiou.gr/en/tickets/)
+- [PDF ligne 7](https://astiko-irakleiou.gr/wp-content/uploads/irakleio/dromologia/k7.pdf)
+- [Télémétrie / arrêts](https://irakleio.citybus.gr/en/stops)
+- [Heraklion Airport — bus](https://www.heraklion-airport.info/bus.html)
+- [Heraklion Airport — taxi](https://www.heraklion-airport.info/taxi.html)
 
 ### À savoir sur place (Crops)
 
@@ -117,37 +145,62 @@ Arrivée **~20:30**.
 2. **Musée archéologique** d’Héraklion (si horaires OK après Knossos)
 3. Centre vénitien : Liontaria / Morosini, rue Dedalou, port Koules (tout à pied depuis Crops)
 
-### Après-midi — KTEL vers Chania (via Réthymnon)
+### Après-midi — KTEL HER → Réthymnon → Chania — update 3/10/2026
+
+Opérateur ouest : **KTEL Chania–Rethymno** (`e-ktel.com`), pas `ktelherlas.gr`. Horaires PDF **valables dès le 26/09/2026** → **mardi 6/10** couvert (confirmer la veille).
 
 **Comment rejoindre la gare KTEL depuis Crops**
 
-- KTEL Station A est près du **port** (Ikarou)
-- **Bus** : depuis Kornarou / Port Bus Station — lignes indiquées par l’hôtel depuis KTEL : **02, 03, 04, 09, 16…** (~20 min, ~1,20 €) — ou simplement **06 / 11** vers le port puis courte marche
-- **Taxi** Crops → KTEL : ~**10 €** (tarif hôtel) — pratique avec bagages après Knossos
+- **Station A** (ouest / port) — Ikarou / « HERAKLION BUS STATION / PORT »
+- Bus urbain **06 / 11** vers le port puis courte marche ; ou taxi Crops → KTEL ~**10 €** (recommandé avec bagages)
 
-**Ligne Héraklion → Chania**
+#### Prix & durées (plein tarif adulte, e-ktel)
 
-- Durée : ~**2h40–3h** (ordinaire, arrêts) ou ~**2h** en **Express**
-- Prix : ~**15–16 €** / personne A/R à prévoir — [crete.direct](https://crete.direct/en/buses)
-- Booking : [e-ktel.com](https://e-ktel.com/en/) · [ktelherlas.gr](https://www.ktelherlas.gr/)
+| Trajet | Prix | Durée |
+|---|---|---|
+| Héraklion ↔ Réthymnon | **9,90 €** | ~**1h30** |
+| Réthymnon ↔ Chania | **7,80 €** | ~**1h15** |
+| Héraklion ↔ Chania (ordinaire **ou** Express) | **17,60 €** | ~3h / ~2h07 |
 
-**Horaires indicatifs** (*à confirmer pour octobre 2026*) :
+**2 adultes avec escale :** ~(9,90 + 7,80) × 2 = **~35,40 €**.
 
-- Héraklion → Chania : quasi horaire **05:30–21:30**
-- Express (saison jusqu’au ~31/10) : **09:30 / 12:45 / 15:30 / 18:45** — [ktelherlas Express](https://www.ktelherlas.gr/en/news/bus-route-changes-for-express-herakleion-chania-herakleion)
-- Chania → Héraklion : dès ~**05:15**, même logique
+#### Horaires utiles (mardi 6/10)
 
-**Itinéraire conseillé le 6/10** :
+**Ordinaires HER → Réthymnon / Chania** (arrêt Réthymnon **oui**) : ~toutes les heures **05:30–21:30** (dont 12:30, **13:30**, 14:30…).
 
-1. Knossos tôt (ouverture) — laisser bagages à Crops si possible, récupérer avant KTEL
-2. Bus **ordinaire** (pas Express) vers Chania **après le déjeuner** (ex. 13:30–14:30)
-3. **Descente à Réthymnon** 1–2 h : vieille ville + Fortezza / port
-4. Reprendre un bus Réthymnon → Chania
-5. Check-in **Souvlakis Pool Suites**
+**Express HER → Chania** (**pas** d’arrêt Réthymnon) : **09:30 · 12:45 · 15:30 · 18:45**.
+
+**Réthymnon → Chania** : ~toutes les heures (**06:00–23:00**), durée ~1h15 (dont **15:00, 16:00, 17:00**…).
+
+| | Ordinaire | Express |
+|---|---|---|
+| Arrêt Réthymnon | **Oui** | **Non** |
+| Pour l’escale | **À prendre** | **À éviter** |
+
+#### Itinéraire recommandé (après Knossos)
+
+| Étape | Heure | Détail |
+|---|---|---|
+| Départ HER → Réthymnon | **13:30** | Ordinaire → ~**15:00** |
+| Escale Réthymnon | **15:00 → 16:30** | ~1h30 (vieille ville / Fortezza) |
+| Départ Réthymnon → Chania | **16:30** | Arrivée ~**17:45** |
+| Check-in | — | **Souvlakis Pool Suites** (taxi depuis KTEL Chania recommandé) |
+
+Alternatives : HER **12:30** puis Réthymnon→Chania **15:00/16:00** ; ou HER **11:30** si Knossos rapide.
+
+**Achat :** guichet Station A pour HER→Réthymnon (souvent le plus simple) ; 2ᵉ tronçon au guichet Réthymnon ou [réservation e-ktel](https://www.e-ktel.com/en/services/online-ticket-reservation). Arriver **15–20 min** avant avec bagages.
 
 ![Fortezza de Réthymnon](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kreta_%28GR%29%2C_Rethymno%2C_Fortezza_--_2023_--_8279.jpg/1280px-Kreta_%28GR%29%2C_Rethymno%2C_Fortezza_--_2023_--_8279.jpg)
 
 *Fortezza, Réthymnon — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_Fortezza_--_2023_--_8279.jpg)*
+
+**Liens utiles (bus 6/10)**
+- [PDF horaires Chania / HER (dès 26-09-2026)](https://www.e-ktel.com/images/CHANIA_FROM_26-09-2026_b.pdf)
+- [PDF Réthymnon (dès 28-09-2026)](https://www.e-ktel.com/images/RETHYMNO_FROM_28-09-2026.pdf)
+- [Horaires imprimables e-ktel](https://www.e-ktel.com/en/services/dromologia)
+- [Réservation / prix e-ktel](https://www.e-ktel.com/en/services/online-ticket-reservation)
+- [Confirmation prix e-ktel](https://www.e-ktel.com/en/services/ticket-price-confirmation)
+- Tél. Chania : **28210 93052** / billets **28210 93306**
 
 ---
 
@@ -174,16 +227,32 @@ Arrivée **~20:30**.
 
 ---
 
-## 7–11/10 — Excursions & activités (depuis Chania, sans voiture)
+## 7–11/10 — Excursions (update 3/10/2026)
 
-Proposition type (à permuter selon météo / vent) :
+Sans voiture depuis **Souvlakis / Pasakaki**. Confirmer **pickup à Mikras Asias 16** pour les tours. Meilleure météo plages : **jeu. 8 → sam. 10**.
 
-| Jour | Idée |
-|---|---|
-| 1 | Balos + Gramvoussa |
-| 1 | Elafonissi (± Falassarna) |
-| 1 | Samaria **ou** Imbros (plus courte) |
-| 1–2 | Centre Chania, Nea Chora, détente piscine Souvlakis |
+### Vue d’ensemble
+
+| Destination | Full package | DIY (bus / bateau seuls) | Verdict |
+|---|---|---|---|
+| **Balos + Gramvoussa** | Pickup + bateau **~48–65 €**/pers | Bus Kissamos + bateau **~55–60 €** | **Réserver en 1er** (jeu–sam) |
+| **Elafonissi** | Coach **~31–40 €** | KTEL **~24 €** A/R | DIY très rentable |
+| **Falassarna** | Privé / rare en groupe | KTEL **~18 €** A/R | DIY le plus souple |
+| **Samaria** | — | — | **Fermée au 3/10** — ne pas compter dessus |
+| **Imbros** (alt. gorge) | Coach **~33–55 €** | Bus Sfakia possible | Meilleure rando de secours |
+| **Seitan Limania** | Mini-tour / taxi | Pas de bus jusqu’à la crique | Taxi / tour |
+
+### Planning suggéré
+
+| Jour | Idée | Pourquoi |
+|---|---|---|
+| Mer 7 | Falassarna (DIY) **ou** détente / Old Town | Souple ; mer encore un peu agitée possible |
+| **Jeu 8 ou Ven 9** | **Balos + Gramvoussa** | Fenêtre météo + mer calme |
+| Ven 9 ou Sam 10 | **Elafonissi** (DIY ou coach) | Jour plage #2 |
+| Jour restant | **Imbros** si Samaria toujours fermée ; sinon ville / piscine | Surveiller NECCA chaque matin |
+| Dim 11 | Léger (Nea Chora, Platanias, ville) | Plus frais / bruine possible |
+
+---
 
 ### Balos + Gramvoussa
 
@@ -191,11 +260,24 @@ Proposition type (à permuter selon météo / vent) :
 
 *Balos — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balos_Lagoon_on_Crete.jpg)*
 
-- Bateau depuis le **port de Kissamos** ; saison typique **mai → fin octobre**
-- Day tour depuis hotels Chania : pickup ~7:30–9:30, retour ~19:00–21:00
-- Prix indicatif bateau seul ~**40–55 €** ; avec transfert / déjeuner un peu plus
-- Sources : [Crete.life Balos](https://crete.life/tours/excursion-to-balos-lagoon-and-gramvousa-island-from-chania-area/), [Unlimited Adrenaline](https://www.unlimitedadrenaline.gr/daily-cruise-to-balos-gramvousa-chania/a/en/3760)
-- **Attention vent** : annulations possibles en octobre
+#### Full package (pickup hôtel)
+
+- Quotidien en saison ; durée ~**12 h** porte-à-porte ; pickup souvent **07:30–08:30**
+- Prix marché : **~48–65 €**/pers (selon GYG / Io Tours)
+- Inclus typique : coach A/C + billet ferry ; **exclu** : repas (~13 €), parasols, **taxe Balos 1 €** (>13 ans)
+- Risque : annulation si vent fort
+
+#### DIY (transports seuls)
+
+| Étape | Horaires / prix |
+|---|---|
+| Chania → Port Kissamos | **08:15, 09:00** (10:30 trop juste) — **7,40 €**, ~1h10 |
+| Bateau seul (basse saison) | Départ ~**10:35–10:50** ; retour Kissamos ~**17:50–18:00** — **~38–40 €** + 1 € taxe |
+| Port → Chania | Bus **18:30** (après bateaux) — ~7,40 € |
+
+**Piège :** un seul bus retour port **18:30** — rater le bateau = coincé / taxi cher. Check-in port **30–40 min** avant.
+
+---
 
 ### Elafonissi / Falassarna
 
@@ -203,31 +285,75 @@ Proposition type (à permuter selon météo / vent) :
 
 *Elafonissi — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Elafonisi_beach_separating_Crete_and_Elafonisi_Island_in_Greece.jpg)*
 
-- Tours combinés Elafonissi + Falassarna (~10–10,5 h), parfois **lun / mer / sam** en saison — [Inside Crete / GetYourGuide](https://insidecrete.com/from-chania-elafonisi-and-falasarna-guided-tour-with-snacks/)
-- Prix indicatif tours ~**100–130 €** selon opérateur
-- Alternative low-cost : bus KTEL vers **Elafonissi** ou **Falassarna** si horaires sur [e-ktel.com](https://www.e-ktel.com/en/services/dromologia) (vérifier octobre)
+#### Elafonissi
 
-### Samaria
+| Mode | Détail |
+|---|---|
+| **DIY KTEL** | Aller **09:00** / retour **16:00** — **12 €** ×2 (~2h10) ; ~4h50 sur place |
+| **Full package** | Pickup ~07:30, ~8–10 h, arrêt Elos, **~31–40 €** |
+
+**Piège DIY :** un seul aller + un seul retour — rater le **16:00** = nuit / taxi.
+
+#### Falassarna
+
+| Mode | Détail |
+|---|---|
+| **DIY KTEL** | Aller **08:15 / 09:00 / 10:30** — **9,10 €** ; retour jusqu’à **17:30** ; **changement à Kasteli** |
+| Full package | Peu courant en groupe ; plutôt privé / sunset |
+
+**Meilleur DIY :** aller 08:15/09:00, retour **17:30**.
+
+---
+
+### Samaria — situation au 3/10/2026
 
 ![Gorge de Samaria](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Samaria_Gorge_09.jpg/1280px-Samaria_Gorge_09.jpg)
 
 *Samaria — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Samaria_Gorge_09.jpg)*
 
-- Gorge ~**16 km** de marche ; journée ~10–12 h
-- Ouverte en principe **mai → ~31 octobre** selon météo
-- Départ très tôt (~05:00–06:00) ; tours ~**35–45 €** (+ entrée / ferry parfois séparés)
-- Sources : [Mystical Crete Tours](https://mysticalcretetours.gr/tour/samaria-gorge-tour-everyday-early-morning/), [checkyeti / Platanos](https://www.checkyeti.com/en/d/3375/27371)
-- Si trop dur / fermée : gorge d’**Imbros** ou journée Theriso / villages
+**Fermée aux deux entrées** (bulletin météo dangereux + inspection). Réouverture **non annoncée** — ne réserver qu’avec **annulation flexible** et vérifier NECCA chaque matin.
 
-### Autres activités (sans voiture)
+Si réouverture avant le 11/10 :
 
-- Flâner **Old Town** + port vénitien + phare (~25 min à pied depuis Souvlakis)
-- Plage **Nea Chora** ou **Agioi Apostoloi** (plus proche du quartier Pasakaki)
-- **Marché municipal**, musée archéologique (Halepa)
-- **Seitan Limania** : taxi A/R ou mini-tour
-- Dégustation huile d’olive / fromage ; croisière sunset
+| Poste DIY | Prix / horaire |
+|---|---|
+| Bus Chania → Xyloskalo | **05:00 / 06:15** (conseillés) — **8,20 €** |
+| Entrée parc | **10 €**/adulte |
+| Ferry Agia Roumeli → Sfakia | **17:30** — **17 €** (Anendyk) |
+| Bus Sfakia → Chania | **18:30** — **9,10 €** |
+| **Total DIY** | **~44–55 €**/pers — journée ~05:00→20:30 |
 
-Idées : [Discover Greece — Chania](https://www.discovergreece.com/crete/chania)
+Tours full package (si ouverte) : pickup tôt, **~32–51 $**, 12–15 h — entrée + ferry souvent exclus.
+
+#### Alternative gorge : Imbros
+
+- Plus courte / facile (~8 km)
+- Tours pickup **~33–55 €** ; ou bus Chania → Chora Sfakion **9,10 €** (08:15 / 11:00 / 14:00)
+
+---
+
+### Autres (sans voiture)
+
+- **Old Town / port / phare** (~20–25 min à pied depuis Souvlakis)
+- Plages **Nea Chora**, **Agioi Apostoloi**, bus fréquents **Platanias / Agia Marina**
+- **Paleochora / Sougia / Loutro** accessibles KTEL (+ ferry Anendyk)
+- **Seitan Limania** : pas de bus jusqu’à la crique → taxi A/R ou tour
+- Piscine Souvlakis les jours de bascule météo
+
+**Liens utiles (excursions)**
+- [PDF KTEL Chania dès 26-09-2026](https://www.e-ktel.com/images/CHANIA_FROM_26-09-2026_b.pdf)
+- [Réservation e-ktel](https://www.e-ktel.com/en/services/online-ticket-reservation)
+- [CDC Balos — tarifs](https://www.cretandailycruises.com/explorecruises/gramvousabalos/prices.en.html)
+- [CDC Balos — réservation](https://booking.cretandailycruises.com/cdc/gramvousa_and_balos)
+- [Blue Cruises Balos](https://blue-daily-cruises.com/ferry-to-balos-gramvousa-tickets-schedule/)
+- [GYG Balos + pickup](https://www.getyourguide.com/chania-l1807/from-chania-balos-and-gramvousa-cruise-t481781/)
+- [GYG Elafonissi](https://www.getyourguide.com/chania-l1807/chania-elafonisi-beach-day-trip-with-stop-in-elos-village-t740920/)
+- [GYG Imbros](https://www.getyourguide.com/chania-l1807/imbros-gorge-hike-from-chania-t494846/)
+- [NECCA — statut / billets Samaria](https://samaria-tickets.necca.gov.gr/checkout)
+- [samaria.gr](https://www.samaria.gr/)
+- [Anendyk — ferries](https://anendyk.gr/routes/) · [prix](https://anendyk.gr/prices/) · [booking](https://anendyk-booking.certusonline.com/index.php?lang=en)
+- [Chania Tours (privé)](https://chania-tours.gr/)
+- [Discover Greece — Chania](https://www.discovergreece.com/crete/chania)
 
 ---
 
@@ -285,18 +411,22 @@ Vol **HER 21:00** → viser aéroport **18:00–18:30**.
 ### Plan bus (recommandé)
 
 1. **Souvlakis → gare KTEL Chania** (Kidonias) : marche ~20 min **ou taxi ~5–10 €** avec bagages (recommandé)
-2. Bus **Chania → Héraklion** (~2h45–3h, ~16 €) ou **Express** (~2h, ~15–16 €)
-   - Express indicatifs : **09:30 / 12:45 / 15:30 / 18:45**
-   - **Conseil** : prendre le **12:45** (arrivé HER ~14:45–15:45) — marge confortable ; au pire le **15:30** (arrivé ~17:30–18:00, juste)
+2. Bus **Chania → Héraklion** — **17,60 €**/pers (ordinaire ~3 h ou Express ~2h07)
+   - Express : **09:30 / 12:45 / 15:30 / 18:45**
+   - **Conseil** : Express **12:45** (arrivé HER ~14:50) — marge confortable ; au pire **15:30** (~17:40, juste)
 3. **KTEL Station A Héraklion → aéroport** :
-   - Bus urbain lignes **10 ou 12** (~15–30 min, ~1,20–1,80 €) — mêmes lignes que Crops → aéroport
-   - Ou taxi ~**15–23 €**
+   - Bus urbain (ex. lignes **10 / 12** ou **7** selon sens) — **1,80–2,80 €** ; ou taxi ~**15–23 €**
 
-Réserver le billet KTEL la veille sur [e-ktel.com](https://e-ktel.com/en/) / [ktelherlas.gr](https://www.ktelherlas.gr/).
+Réserver la veille sur [e-ktel.com](https://www.e-ktel.com/en/services/online-ticket-reservation). PDF : [CHANIA_FROM_26-09-2026](https://www.e-ktel.com/images/CHANIA_FROM_26-09-2026_b.pdf).
 
 ### Alternative
 
 Transfer privé Chania → HER : souvent ~**120–180 €** (zéro stress bagages).
+
+**Liens utiles (retour 12/10)**
+- [e-ktel réservation](https://www.e-ktel.com/en/services/online-ticket-reservation)
+- [PDF horaires](https://www.e-ktel.com/images/CHANIA_FROM_26-09-2026_b.pdf)
+- [Astiko tickets](https://astiko-irakleiou.gr/en/tickets/)
 
 ---
 
@@ -308,9 +438,9 @@ Transfer privé Chania → HER : souvent ~**120–180 €** (zéro stress bagage
 | Crops Suites (1 nuit) | **95 €** | **Réservé** |
 | Souvlakis Pool Suites (6 nuits) | **390 €** | **Réservé** |
 | Bus aéroport + urbains + Knossos | ~20–40 € | À venir |
-| KTEL HER ↔ Chania A/R | ~60–70 € | À venir |
-| Taxi arrivée HER + taxis locaux | ~40–60 € | À venir |
-| 2–3 excursions | ~160–350 € | À venir |
+| KTEL HER ↔ Chania A/R (~17,60 € × 2 × 2) | ~**70 €** | À venir |
+| Taxi arrivée HER (~19 €) + taxis locaux | ~40–60 € | À venir |
+| 2–3 excursions (Balos + Elafonissi / Imbros) | ~**200–350 €** | À venir |
 | Entrées (Knossos, musées, parc) | ~40–60 € | À venir |
 | Restos (6–7 soirs) | ~**300–550 €** | À venir |
 | **Total déjà engagé** | **727 €** | vols + hôtels |
@@ -324,14 +454,14 @@ Transfer privé Chania → HER : souvent ~**120–180 €** (zéro stress bagage
 - [x] Crops Suites Héraklion 5/10 (95 €)
 - [x] Souvlakis Pool Suites Chania 6–12/10 (390 €)
 - [ ] Cash euros pour bus / pourboires
-- [ ] App Astiko + comptes e-ktel / ktelherlas
-- [ ] Réserver billets KTEL 6/10 et 12/10 (Express 12:45 conseillé au retour)
-- [ ] Chaussures randonnée + k-way + crème
-- [ ] Vérifier météo + vent Balos 48 h avant
-- [ ] Vérifier ouverture Samaria
+- [ ] App Astiko + compte e-ktel
+- [ ] Réserver KTEL 6/10 (ordinaire HER **13:30** + Réthymnon→Chania **16:30**) et 12/10 (Express **12:45**)
+- [ ] Valise : polaire + k-way + SPF + chaussures rando (Imbros)
+- [ ] Réserver **Balos** (pickup ou bateau seul) pour **jeu. 8 / ven. 9 / sam. 10** — annulation flexible
+- [ ] Surveiller **Samaria** chaque matin sur NECCA (fermée au 3/10) → sinon Imbros
 - [ ] Check-in Volotea + présence HER 18:00–18:30 le 12/10
 - [ ] Réserver 2–3 restos Chania (To Maridaki, Salis, Chrisostomos)
-- [ ] Confirmer pickup excursions à l’adresse Pasakaki (Mikras Asias 16)
+- [ ] Confirmer pickup excursions à **Mikras Asias 16, Pasakaki**
 
 ---
 
@@ -347,29 +477,30 @@ Transfer privé Chania → HER : souvent ~**120–180 €** (zéro stress bagage
 - [Crops — Where to go guide](https://cropssuites.com/where-to-go-guide/)
 - [Souvlakis Pool Suites](https://souvlakis-pool-suites.chaniatownhotels.com/en/)
 
-### Météo
-- [weather-stats.com — Héraklion octobre](https://weather-stats.com/greece/heraklion/october)
-- [seatemperature.info — mer Héraklion octobre](https://seatemperature.info/october/heraklion-water-temperature.html)
-- [seatemperature.info — mer Chania octobre](https://seatemperature.info/october/chania-water-temperature.html)
-- [WeatherAPI — historique octobre Chania](https://www.weatherapi.com/history/october/q/chania-2852933)
-- [meteo.gr](https://www.meteo.gr/)
+### Météo (update 3/10)
+- [meteo.gr — Chania](https://www.meteo.gr/cf.cfm?city_id=21)
+- [EMY](https://emy.gr/en)
+- [Meteoblue Chania](https://www.meteoblue.com/en/weather/week/chania_greece_260133)
+- [SeaTemperature.org — Chania](https://www.seatemperature.org/europe/greece/chania.htm)
 
-### Bus & transferts
-- [Astiko Irakleiou](https://astiko-irakleiou.gr/)
-- [Heraklion Airport — bus](https://www.heraklion-airport.info/bus.html)
-- [e-ktel.com](https://e-ktel.com/en/)
-- [ktelherlas.gr](https://www.ktelherlas.gr/)
-- [KTEL Express HER–Chania (horaires)](https://www.ktelherlas.gr/en/news/bus-route-changes-for-express-herakleion-chania-herakleion)
-- [crete.direct — bus Crète](https://crete.direct/en/buses)
+### Bus & transferts (update 3/10)
+- [Astiko — itineraries](https://astiko-irakleiou.gr/en/itineraries/) · [tickets](https://astiko-irakleiou.gr/en/tickets/) · [PDF ligne 7](https://astiko-irakleiou.gr/wp-content/uploads/irakleio/dromologia/k7.pdf)
+- [irakleio.citybus.gr — arrêts](https://irakleio.citybus.gr/en/stops)
+- [Heraklion Airport — bus](https://www.heraklion-airport.info/bus.html) · [taxi](https://www.heraklion-airport.info/taxi.html)
+- [e-ktel PDF Chania dès 26-09-2026](https://www.e-ktel.com/images/CHANIA_FROM_26-09-2026_b.pdf)
+- [e-ktel PDF Réthymnon](https://www.e-ktel.com/images/RETHYMNO_FROM_28-09-2026.pdf)
+- [e-ktel réservation](https://www.e-ktel.com/en/services/online-ticket-reservation)
 - [Moovit — ligne 02 Knossos](https://moovitapp.com/index/en/public_transit-line-02-Heraklion_%CE%97%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF-3825-864052-23536044-0)
-- [Chania public transport](https://chaniamustsee.com/cat/transportation/public-transportation/)
 
-### Excursions & activités
-- [Crete.life — Balos / Gramvoussa](https://crete.life/tours/excursion-to-balos-lagoon-and-gramvousa-island-from-chania-area/)
-- [Inside Crete — Elafonissi / Falassarna](https://insidecrete.com/from-chania-elafonisi-and-falasarna-guided-tour-with-snacks/)
-- [Mystical Crete — Samaria](https://mysticalcretetours.gr/tour/samaria-gorge-tour-everyday-early-morning/)
+### Excursions (update 3/10)
+- [CDC Balos tarifs](https://www.cretandailycruises.com/explorecruises/gramvousabalos/prices.en.html) · [booking](https://booking.cretandailycruises.com/cdc/gramvousa_and_balos)
+- [Blue Cruises Balos](https://blue-daily-cruises.com/ferry-to-balos-gramvousa-tickets-schedule/)
+- [GYG Balos pickup](https://www.getyourguide.com/chania-l1807/from-chania-balos-and-gramvousa-cruise-t481781/)
+- [GYG Elafonissi](https://www.getyourguide.com/chania-l1807/chania-elafonisi-beach-day-trip-with-stop-in-elos-village-t740920/)
+- [GYG Imbros](https://www.getyourguide.com/chania-l1807/imbros-gorge-hike-from-chania-t494846/)
+- [NECCA Samaria](https://samaria-tickets.necca.gov.gr/checkout) · [samaria.gr](https://www.samaria.gr/)
+- [Anendyk routes](https://anendyk.gr/routes/) · [booking](https://anendyk-booking.certusonline.com/index.php?lang=en)
 - [Discover Greece — Chania](https://www.discovergreece.com/crete/chania)
-- [cretanbeaches.com — plages Héraklion](http://www.cretanbeaches.com/en/beaches-of-crete/central-crete-beaches-heraklion)
 
 ### Gastronomie
 - [To Maridaki](https://discoverchania.gr/listing/to-maridaki/)
@@ -389,4 +520,4 @@ Transfer privé Chania → HER : souvent ~**120–180 €** (zéro stress bagage
 
 ---
 
-*Document mis à jour avec réservations confirmées (vols + Crops + Souvlakis). Horaires KTEL et ouverture gorges / bateaux : revérifier avant le départ.*
+*Update 3/10/2026 : météo J+N, bus Astiko/KTEL, excursions full package + DIY, Samaria fermée. Revérifier météo / NECCA / e-ktel 24–48 h avant chaque sortie.*
